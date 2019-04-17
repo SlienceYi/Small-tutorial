@@ -1,0 +1,10 @@
+test.xls					
+把所有的文件名写入EXCEL.bat					
+测试1.txt			ren	1.jpg	ren 测试1.txt 1.jpg
+测试2.txt			ren	2.jpg	ren 测试2.txt 2.jpg
+测试3.txt			ren	3.jpg	ren 测试3.txt 3.jpg
+测试4.txt			ren	4.jpg	ren 测试4.txt 4.jpg
+测试5.txt			ren	5.jpg	ren 测试5.txt 5.jpg
+测试6.txt			ren	6.jpg	ren 测试6.txt 6.jpg
+测试7.txt			ren	7.jpg	ren 测试7.txt 7.jpg
+用魔法把所有的文件变成JPG.bat					
